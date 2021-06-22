@@ -54,7 +54,7 @@ const ATB = (props)=>{
                                     },
                                     paperback:{
                                         amazon:'https://www.amazon.com/Im-Here-Bath-Peter-Rolita/dp/1648953905/ref=sr_1_1?dchild=1&keywords=9781648953903&qid=1620659182&sr=8-1',
-                                        barnes:'https://www.barnesandnoble.com/w/the-god-particle-dr-rhy-ronald-p-rozzi-ms-d/1137333891?ean=9781648951053',
+                                        barnes:'https://www.barnesandnoble.com/w/im-here-for-the-bath-peter-rolita/1122746653?ean=9781648953903',
                                         booksamillion:'https://www.booksamillion.com/p/Im-Here-Bath/Peter-E-Rolita/9781648953903?id=8230387821951&_ga=2.217593557.295057274.1624029810-1205166702.1623175305',
                                     },
                                 }}
